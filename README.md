@@ -29,4 +29,4 @@ If you want to only trigger an interceptor on certain methods you can add a para
 
 	bf.intercept("ReverseService","Logger", "doReverse,doOtherThing");
 
-Check out the [AOP/1 documentation](http://framework-one.github.io/documentation/using-aop-one.html) for more details.
+Check out the [AOP/1 documentation](http://framework-one.github.io/documentation/4.3/using-aop-one/) for more details.
